@@ -1,9 +1,3 @@
-<div align="center">
-  
-  ![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Evrenos&animation=fadeIn)
-
-</div>
-
 I'm an aspiring dev with a focus on privacy-first design and Linux-powered systems. Currently building my path toward full-stack mastery while exploring the intersection of clean code and ethical tech.
 
 ---
