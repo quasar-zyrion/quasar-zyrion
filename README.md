@@ -31,9 +31,8 @@ I'm an aspiring dev with a focus on privacy-first design and Linux-powered syste
 
 <div align="center">
   
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://evrenos-dev.vercel.app)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://evrenos-pages.dev)
   [![Twitter](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/evren_os)
-  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1054321123321446451)
 
 </div>
 
@@ -41,7 +40,6 @@ I'm an aspiring dev with a focus on privacy-first design and Linux-powered syste
 
 <div align="center">
   
-  ![Lines of Code](https://img.shields.io/badge/From%20Hello%20World%20to%20This%20Line-5.2k%20LOC-blue)
   ![Profile Views](https://komarev.com/ghpvc/?username=Evren-os&color=ff69b4&label=Stalker%20Count)
 
 </div>
